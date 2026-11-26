@@ -1,5 +1,5 @@
 {
-  "name": "InterViewZ",
+  "name": "interviewz",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<h1 align=\"center\">✨ Full-Stack Interview Platform ✨</h1>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalit-Kumar09/InterViewZ.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lalit-Kumar09/InterViewZ/issues"
+  },
+  "homepage": "https://github.com/Lalit-Kumar09/InterViewZ#readme"
 }
